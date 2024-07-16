@@ -1,0 +1,2 @@
+NAME                   READY   STATUS    RESTARTS        AGE
+my-release-mariadb-0   1/1     Running   1 (2m44s ago)   6m49s
