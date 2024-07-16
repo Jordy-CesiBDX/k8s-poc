@@ -1,0 +1,6 @@
+git init
+git remote add origin <lien repot>
+git add <ajouter les fichiers>
+git status
+git commit -m "<inserer le commit explicit des ajouts>"
+git push origin main
