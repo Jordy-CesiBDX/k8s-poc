@@ -2,15 +2,15 @@
 
 -installer un environnement Linux (ubuntu) x
 -installer les divers applications :
-	-minikube 
+	-minikube x 
 	-docker x
-	-kubectl 
+	-kubectl x 
 	-curl x - ca-certificate x - visual studio code - git x python3 x 
 
 paramétrer git x
-réaliser clé ssh x
-inserer clé ssh sur mon github x
-tester d'envoyer quelque chose sur github x
+réaliser clé ssh 
+inserer clé ssh sur mon github 
+tester d'envoyer quelque chose sur github 
 tester de récupérer quelque chose sur github x
 
 voir pour initialiser une connexion ssh pour bureau à distance x
